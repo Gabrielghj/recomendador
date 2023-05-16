@@ -5,6 +5,8 @@ INTRODUCCION
 El presente trabajo consiste en un modelo de recomendación,para ser 
 utilizado en una startup que provee servicios de agregación de plataformas de streaming.
 
+BRANCH MASTER
+
 El mismo fue realizado en su totalidad en Google Colaboratory.
 El enlace para accederlo es el siguiente:
 
